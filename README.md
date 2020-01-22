@@ -1,4 +1,4 @@
-# chart.js-example
+# Chart.js-Example
 ![screenshot](https://raw.githubusercontent.com/jyzbamboo/chart.js-example/master/assets/screenshot.png)
 
 
